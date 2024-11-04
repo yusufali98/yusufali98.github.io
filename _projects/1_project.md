@@ -22,7 +22,7 @@ In this project, we showcase the effectiveness of using a language-driven module
 <div class="caption">
     Left: Existing issue in leveraging VLMs for embodied navigation ; Right : Overall pipeline of our proposed solution
 </div>
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/corl_robot_video_small.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
