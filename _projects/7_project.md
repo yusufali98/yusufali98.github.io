@@ -5,7 +5,7 @@ description: High Speed Autonomous Off-Road Driving
 img: assets/img/resized_image_3.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 In this project, I contributed to enabling long-range perception for the DARPA RACER initiative as part of JPL's geometric perception team. This involved using low-resolution elevation data from Digital Elevation Models (DEMs) to enhance the 3D LiDAR-based elevation mapping pipeline and leveraging high-resolution RGB cameras to densify 3D LiDAR data at distances beyond 200 meters.
 

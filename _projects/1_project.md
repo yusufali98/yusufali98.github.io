@@ -5,7 +5,7 @@ description: Large Vision-Language Models as Embodied Agents
 img: assets/img/resized_image_1.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 In this project, we showcase the effectiveness of using a language-driven module for the task of open-vocabulary object navigation in a never-before-seen, real-world environment on a real LoCoBot. Specifically, we finetune a recent large VLM (LLaVa-v1.5) to efficiently select subgoals which lead to the query open-vocabulary object. The LLaVa-v1.5 model is finetuned using LoRA on a dataset of GPT-4V generated multi-turn dialogue exchanges to find target objects in real world images collected by the robot. Our method uses natural language inputs to guide the robot to find new objects and leverages open-vocabulary detectors such as OWL-ViT for reliable navigation routines.
