@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Robotics PhD student at the School of Interactive Computing, Georgia Tech working with <a href='https://faculty.cc.gatech.edu/~zk15/'> Prof. Zsolt Kira. My research focuses on developing embodied agents using reinforcement learning that can reliably execute long-horizon tasks autonomously. I am also interested in understanding how robots can execute dynamic mobile manipulation tasks in structured environments such as warehouses.
+Hi! I am a Robotics PhD student at the School of Interactive Computing, Georgia Tech working with <a href='https://faculty.cc.gatech.edu/~zk15/'> Prof. Zsolt Kira </a>. My research focuses on developing embodied agents using reinforcement learning that can reliably execute long-horizon tasks autonomously. I am also interested in understanding how robots can execute dynamic mobile manipulation tasks in structured environments such as warehouses.

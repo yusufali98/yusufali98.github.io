@@ -20,18 +20,18 @@ In this project, we showcase the effectiveness of using a language-driven module
     </div>
 </div>
 <div class="caption">
-    Left: Existing issue in leveraging VLMs for embodied navigation . Right : Overall pipeline of our proposed solution
+    Left: Existing issue in leveraging VLMs for embodied navigation ; Right : Overall pipeline of our proposed solution
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <video class="img-fluid rounded z-depth-1" controls>
-            <source src="assets/video/corl_robot_video.mp4" type="video/mp4">
+            <source src="assets/video/corl_robot_video_small.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
 </div>
 <div class="caption">
-    Demonstration video of running VLMs on real robot.
+    1x Demonstration video of running LoRA finetuned LLaVa-v1.5 online on real robot (Model inference offloaded to cluster in real-time)
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
