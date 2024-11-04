@@ -19,7 +19,7 @@ giscus_comments: false
     </div>
 </div>
 <div class="caption">
-    Left: Existing issue in leveraging VLMs for embodied navigation ; Right : Overall pipeline of our proposed solution
+    Left: Factor Graph Structure for 3D SfM ; Right : ROS System Acrhitecture for Online Collaborative Perception and Planning
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,5 +27,5 @@ giscus_comments: false
     </div>
 </div>
 <div class="caption">
-    1x Demonstration video of running LoRA finetuned LLaVa-v1.5 online on real robot (Model inference offloaded to cluster in real-time)
+   Sampled Routine showcasing real-time 3D reconstruction using 2 agents
 </div>
