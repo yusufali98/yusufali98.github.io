@@ -2,7 +2,7 @@
 layout: page
 title: CoRL 2023
 description: Large Vision-Language Models as Embodied Agents
-img: assets/img/corl_img.jpg
+img: assets/img/resized_image_1.png
 importance: 1
 category: work
 related_publications: true
@@ -22,23 +22,23 @@ In this project, we showcase the effectiveness of using a language-driven module
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-     {% include figure.liquid loading="eager" path="assets/img/corl_demo1.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="assets/img/corl_1.img" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
-    Existing issue in leveraging VLMs for embodied navigation 
+   Existing issue in leveraging VLMs for embodied navgiation
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-     {% include figure.liquid loading="eager" path="assets/img/corl_demo2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="assets/img/corl_2.img" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
-    Overall pipeline of our proposed solution
+   Proposed Solution
 </div>
 
- 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/corl_robot_video_small.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}

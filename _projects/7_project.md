@@ -2,7 +2,7 @@
 layout: page
 title: DARPA RACER (JPL)
 description: High Speed Autonomous Off-Road Driving
-img: assets/img/darpa_img.png
+img: assets/img/resized_image_3.png
 importance: 1
 category: work
 related_publications: true
