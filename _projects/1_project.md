@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: CoRL 2024 
+description: Large Vision-Language Models as Embodied Agents
+img: assets/img/corl_img.jpg
 importance: 1
 category: work
 related_publications: true
