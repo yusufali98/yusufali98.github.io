@@ -9,23 +9,23 @@ giscus_comments: true
 ---
 
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/gtpass1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gtpass2.png title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gtpass2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Left: Existing issue in leveraging VLMs for embodied navigation ; Right : Overall pipeline of our proposed solution
 </div>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/gtpass_video.mov" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/gtpass_video.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
-    
+    1x Demonstration video of running LoRA finetuned LLaVa-v1.5 online on real robot (Model inference offloaded to cluster in real-time)
 </div>
