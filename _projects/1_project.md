@@ -8,12 +8,7 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
+In this project, we showcase the effectiveness of using a language-driven module for the task of open-vocabulary object navigation in a never-before-seen, real-world environment on a real LoCoBot. Specifically, we finetune a recent large VLM (LLaVa-v1.5) to efficiently select subgoals which lead to the query open-vocabulary object. The LLaVa-v1.5 model is finetuned using LoRA on a dataset of GPT-4V generated multi-turn dialogue exchanges to find target objects in real world images collected by the robot. Our method uses natural language inputs to guide the robot to find new objects and leverages open-vocabulary detectors such as OWL-ViT for reliable navigation routines.
 
 
 <div class="row">
@@ -25,7 +20,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Left: We prompt the Large Vision Laguage models . Right : We collect our own data and do LoRA finetuning
+    Left: Existing issue in leveraging VLMs for embodied navigation . Right : Overall pipeline of our proposed solution
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,7 +31,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Demonstration of running VLMs on real robot.
+    Demonstration video of running VLMs on real robot.
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
