@@ -2,7 +2,7 @@
 layout: page
 title: Astro-SLAM (GTRI) 
 description: 3D Structure-from-Motion (SfM) using GTSAM and Habitat-Sim
-img: assets/img/resized_image_2.png
+img: assets/img/resized_image_3.png
 importance: 2
 category: work
 giscus_comments: false
